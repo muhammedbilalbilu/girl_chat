@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497361588375",
+    "project_id": "newgirl-99da3",
+    "storage_bucket": "newgirl-99da3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497361588375:android:4373bc9c47f7c761de19d2",
+        "android_client_info": {
+          "package_name": "com.example.girl_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497361588375-pn1sq62pp0sggb5e4lrti2m3q2600hib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlcMHLMrT0BH1OZ-hTtDMh43CttK52RFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497361588375-pn1sq62pp0sggb5e4lrti2m3q2600hib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
